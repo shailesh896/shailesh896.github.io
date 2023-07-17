@@ -1,12 +1,28 @@
 {
     "main": {
-        "name": "Hermione Granger",
-        "description": "I'm a web development engineer and I use react and python to develop pages...",
+        "name": "Shailesh Mishra",
+        "description": "Results-driven Software Engineer with 2 years of experience in full stack development using React. Proven ability to design, develop, and deploy scalable web applications, employing best practices and industry standards. Strong problem-solving skills and a passion for creating efficient and user-friendly software solutions.",
         "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "bio": "I am a passionate and results-driven Software Engineer with expertise in full stack development and a strong focus on using React to build scalable and efficient web applications. With [X] years of experience in the industry, I have developed a solid foundation in JavaScript, HTML, CSS, and other related technologies.
+
+My journey in software engineering began during my studies at [University Name], where I pursued a [Degree] in [Major]. Throughout my academic journey, I gained a deep understanding of software development principles, data structures, algorithms, and database management.
+
+After graduating, I joined [Company Name] as a Software Engineer, where I had the opportunity to work on various projects involving React and other cutting-edge technologies. In my role, I collaborated closely with cross-functional teams to gather requirements, design technical solutions, and implement robust web applications. I thrive in an agile environment, where I can leverage my problem-solving skills to overcome challenges and deliver high-quality software solutions.
+
+My expertise lies in developing responsive user interfaces, implementing efficient data management systems, and integrating APIs to create seamless user experiences. I am well-versed in utilizing frameworks such as Redux and libraries like jQuery to streamline frontend development. On the backend, I have experience with Node.js, Express.js, MongoDB, and SQL, enabling me to build robust server-side components.
+
+Throughout my career, I have demonstrated a strong commitment to code quality, testing, and continuous improvement. I actively engage in code reviews, providing valuable feedback to ensure the overall quality and maintainability of the codebase. Additionally, I am skilled in using version control systems like Git and GitHub to manage collaborative projects effectively.
+
+In my most notable project, I spearheaded the development of an e-commerce application using React, resulting in improved user engagement and a significant boost in sales. I pride myself on delivering projects on time and exceeding expectations, as evidenced by receiving the "Outstanding Performance" award for leading a cross-functional team in delivering a critical software project ahead of schedule.
+
+Outside of work, I am an active member of [Professional Association/Community], where I stay updated with the latest industry trends and advancements. I regularly attend webinars and conferences, further enhancing my skills and knowledge in software development.
+
+In conclusion, I am a dedicated Software Engineer with a strong passion for creating innovative solutions using React and other cutting-edge technologies. With my technical expertise, problem-solving abilities, and commitment to delivering high-quality code, I am excited to contribute to challenging software projects and drive meaningful impact.
+
+Feel free to personalize the bio by incorporating your specific experiences, achievements, and interests.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
+        "email": "shaileshme57@gmail.com",
+        "phone": "+977 9811997475",
         "github": "https://github.com/",
         "project": "https://github.com/",
         "address": {
